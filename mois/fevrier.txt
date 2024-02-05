@@ -1,0 +1,62 @@
+-------------------------------------------------------------------
+01/02/2024
+sommeil: 7h
+
+project_livre_inaya: 2h
+project_autre:
+project_dessin:
+
+discipline_maison:1h
+discipline_yogi: 30
+discipline_sport: 60
+
+corps:6
+mental: 7
+esprit:6
+-------------------------------------------------------------------
+02/02/2024
+sommeil: 7h45
+
+3 café+ BFR+5 biscotte + glace + 5 cookies piero+purée_fromage+yaourt+3 morceau pain+pain+corn_fleck
+
+project_livre_inaya:4h
+project_autre:
+project_dessin:
+
+discipline_maison:30min
+discipline_yogi:15min
+discipline_sport:
+
+corps:6
+mental:6
+esprit:5
+-------------------------------------------------------------------
+03/02/2024
+sommeil:7h
+
+project_livre_inaya:
+project_autre:
+project_dessin:
+
+discipline_maison:
+discipline_yogi:
+discipline_sport:
+
+corps:
+mental:
+esprit:
+-------------------------------------------------------------------
+04/02/2024
+sommeil:
+
+project_livre_inaya:
+project_autre:
+project_dessin:
+
+discipline_maison:
+discipline_yogi:
+discipline_sport:
+
+corps:
+mental:
+esprit:

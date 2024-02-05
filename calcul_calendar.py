@@ -55,7 +55,9 @@ for i in range(1,367):
     
     r = fact_prime(i)
     degres_number[str(r)] += 1
-    print(f"{i:<3} {weeks[i%7-1]:<8} {number_to_date(i):<10} degres={r}")
+    d = number_to_date(i)
+    if "/02/" in d:
+        print(f"{i:<3} {weeks[i%7-1]:<8} {d:<10} degres={r}")
     
 for key in degres_number:
     print(f"degres {key} = {degres_number[key]:<4} {degres_number[key]/365*100:>5.2f}% de l'année")
